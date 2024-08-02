@@ -1,6 +1,9 @@
 # WeatherApplication
 A simple weather application using the openweather API.
 
+<h2>Preview</h2>
+https://aymenuxma.github.io/Weather-App/
+
 STEPS TO RUN THE CODE: 
 1. Go to https://openweathermap.org
 2. Create a free account
